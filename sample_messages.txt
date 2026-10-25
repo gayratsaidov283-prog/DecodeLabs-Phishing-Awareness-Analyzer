@@ -1,0 +1,27 @@
+=== SAFE MESSAGE ===
+Hello Gayrat,
+The cybersecurity team meeting is scheduled for tomorrow at 10:00 AM.
+Please review the project documentation before the meeting.
+
+
+=== SUSPICIOUS MESSAGE ===
+Your payment failed.
+Please verify your account and update billing information.
+
+
+=== MALICIOUS MESSAGE ===
+URGENT!
+
+Your account has been suspended.
+
+Verify your account immediately to avoid permanent account closure.
+
+Click here:
+https://secure-account-login.xyz
+
+
+=== PHISHING PRIZE MESSAGE ===
+Congratulations! You are the winner of a special prize.
+
+Click here immediately to confirm your identity:
+https://claim-your-prize-now.xyz
